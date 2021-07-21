@@ -1,5 +1,13 @@
 # Stock Maximize
 
+https://www.hackerrank.com/challenges/stockmax/problem
+
+Author: HackerRank
+
+Difficulty: Medium
+
+Max Score: 50
+
 Your algorithms have become so good at predicting the market
 that you now know what the share price of Wooden Orange Toothpicks Inc. (WOT)
 will be for the next number of days.
