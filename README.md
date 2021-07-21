@@ -5,7 +5,7 @@
 https://www.hackerrank.com/challenges/stockmax/problem
 
 ```bash
-cargo test --release stockmax
+cargo test --release --doc -p stockmax
 ```
 
 ```bash
