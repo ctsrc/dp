@@ -56,7 +56,7 @@ fn main () -> Result<()>
     }
     let res = stockmax::stockmax(v);
     match out_f.as_mut() {
-      Some(out_f) => out_f.write_fmt(format_args!("{}", res))?,
+      Some(out_f) => out_f.write_fmt(format_args!("{}\n", res))?,
       None => println!("{}", res),
     };
   }
