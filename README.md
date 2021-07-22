@@ -23,6 +23,15 @@ you can obtain with an optimum trading strategy?
 cargo test --release --doc -p stockmax
 ```
 
+```text
+running 3 tests
+test src/lib.rs - stockmax (line 7) ... ok
+test src/lib.rs - stockmax (line 3) ... ok
+test src/lib.rs - stockmax (line 11) ... ok
+
+test result: ok. 3 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out
+```
+
 ```bash
 cargo run --release stockmax < stockmax/test/input/input11.txt
 ```
