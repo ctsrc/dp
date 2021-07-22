@@ -61,6 +61,7 @@ that my implementation should do this as well.
 export OUTPUT_PATH="$( mktemp )"
 cargo run --release stockmax < stockmax/test/input/input11.txt
 cat "$OUTPUT_PATH"
+rm "$OUTPUT_PATH"
 unset OUTPUT_PATH
 ```
 
