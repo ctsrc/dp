@@ -52,7 +52,7 @@ If the `OUTPUT_PATH` environment variable is set then output
 is written to the specified file, creating said file if it does
 not exist, or truncating it if it does exist.
 
-Takinf the output path via an environment variable rather than
+Taking the output path via an environment variable rather than
 as a command-line argument is not very Unix-like, but it's what they do
 in the HackerRank C++ skeleton for this assignment and therefore I decided
 that my implementation should do this as well.
