@@ -35,4 +35,4 @@ Currently there are no problems and solutions in this section.
 Mainly because only one problem has been solved so far.
 And partly because not interesting problems are also not so
 interesting to solve so I might decide not to solve them
-in the first hand.
+in the first place.
