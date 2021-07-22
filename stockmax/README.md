@@ -2,7 +2,7 @@
 
 https://www.hackerrank.com/challenges/stockmax/problem
 
-Author: HackerRank
+Problem author: HackerRank
 
 Difficulty: Medium
 
