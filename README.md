@@ -5,6 +5,11 @@ by breaking it down into simpler sub-problems in a recursive manner.
 
 https://en.wikipedia.org/wiki/Dynamic_programming
 
+## Table of Contents
+
+* [Highlighted problems and solutions](#highlighted-problems-and-solutions)
+* [Mo' money 🤑 🤑 🤑 mo' problems 😩 😩 😩](#mo-money----mo-problems---)
+
 ## Highlighted problems and solutions
 
 ### [Stockmax](stockmax)
