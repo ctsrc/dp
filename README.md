@@ -9,7 +9,9 @@ https://en.wikipedia.org/wiki/Dynamic_programming
 
 ### [Stockmax](stockmax)
 
-https://www.hackerrank.com/challenges/stockmax/problem
+Your algorithms have become so good at predicting the market that you now know
+what the share price of Wooden Orange Toothpicks Inc. (WOT) will be
+for the next number of days. [READ MORE](stockmax)
 
 ```bash
 cargo test --release --doc -p stockmax
