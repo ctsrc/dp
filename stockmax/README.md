@@ -13,9 +13,9 @@ Max Score: 50
 * [Implementation](#implementation)
 * [Problem statement](#problem-statement)
   - [Function Description](#function-description)
-  - [Input format](#input-format)
+  - [Input Format](#input-format)
   - [Constraints](#constraints)
-  - [Output format](#output-format)
+  - [Output Format](#output-format)
   - [Sample Input](#sample-input)
   - [Sample Output](#sample-output)
   - [Explanation](#explanation)
@@ -93,7 +93,7 @@ stockmax has the following parameter(s):
 
   * prices: an array of integers that represent predicted daily stock prices
 
-### Input format
+### Input Format
 
 The first line contains the number of test cases `t`.
 
@@ -110,7 +110,7 @@ Each of the next `t` pairs of lines contain:
   * `1 <= n <= 50000`
   * `1 <= prices[i] <= 100000`
 
-### Output format
+### Output Format
 
 Output `t` lines, each containing the maximum profit which can be obtained
 for the corresponding test case.
