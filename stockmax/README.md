@@ -40,7 +40,7 @@ test result: ok. 3 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out
 Reads input from stdin and writes solution to stdout in specified format.
 
 ```bash
-cargo run --release stockmax < stockmax/test/input/input11.txt
+cargo run --release stockmax < test/input/input11.txt
 ```
 
 ```text
@@ -59,7 +59,7 @@ that my implementation should do this as well.
 
 ```bash
 export OUTPUT_PATH="$( mktemp )"
-cargo run --release stockmax < stockmax/test/input/input11.txt
+cargo run --release stockmax < test/input/input11.txt
 cat "$OUTPUT_PATH"
 rm "$OUTPUT_PATH"
 unset OUTPUT_PATH
