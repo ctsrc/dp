@@ -5,7 +5,7 @@ by breaking it down into simpler sub-problems in a recursive manner.
 
 https://en.wikipedia.org/wiki/Dynamic_programming
 
-## Stockmax
+## [Stockmax](stockmax)
 
 https://www.hackerrank.com/challenges/stockmax/problem
 
