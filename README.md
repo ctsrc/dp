@@ -9,5 +9,10 @@ cargo test --release --doc -p stockmax
 ```
 
 ```bash
-cargo run --release stockmax
+cargo run --release stockmax < stockmax/test/input/input11.txt
+```
+
+```text
+6
+4
 ```
